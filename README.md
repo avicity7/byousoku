@@ -12,7 +12,6 @@
   </tr>
 </table>
 
----
 
 ## Requirements for Development (Not necessary for simply installing)
 
@@ -24,7 +23,6 @@ Before making changes to the watch face's source code, ensure you have:
 - **Visual Studio Code** (Optional but recommended)
 - **Connect IQ CLI Tools** - Included with SDK
 
----
 
 ## Installation
 
@@ -73,7 +71,6 @@ Before making changes to the watch face's source code, ensure you have:
    connectiq
    # Load the .prg file in the simulator
    ```
----
 
 ## Usage
 
@@ -85,7 +82,6 @@ Once installed on your Garmin Instinct 3 Solar:
 4. **Press select** to activate
 5. **Press back** to return to your new watch face
 
----
 
 ## Supported Devices
 
