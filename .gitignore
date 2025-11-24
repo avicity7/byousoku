@@ -1,0 +1,4 @@
+gen/
+internal-mir/
+mir/
+*.debug.xml
