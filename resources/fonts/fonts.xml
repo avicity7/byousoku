@@ -1,0 +1,7 @@
+<fonts>
+    <font id="ds" filename="ds.fnt" filter="0123456789:"/>
+    <font id="ds2" filename="ds2.fnt" filter="0123456789:-"/>
+    <font id="ds3" filename="ds3.fnt" filter="0123456789:-"/>
+    <font id="news" filename="news.fnt" filter="0123456789:-'"/>
+    <font id="lcd" filename="lcd.fnt" filter="ABCDEFGHIJKLMNOPQRSTUVWXYZ"/>
+</fonts>

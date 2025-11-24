@@ -1,0 +1,8 @@
+<layout id="WatchFace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <label id="TimeLabel" x="130" y="69" justification="Graphics.TEXT_JUSTIFY_RIGHT"/>
+    <label id="SecondsLabel" text="30" x="133" y="73" justification="Graphics.TEXT_JUSTIFY_LEFT"/>
+    <label id="DateLabel" text="11-23" x="85" y="33" justification="Gfx.TEXT_JUSTIFY_RIGHT"/>
+    <label id="YearLabel" text="25" x="85" y="4" justification="Gfx.TEXT_JUSTIFY_RIGHT"/>
+    <label id="YearApostrophe" text="'" x="54" y="-14" justification="Gfx.TEXT_JUSTIFY_RIGHT" />
+    <label id="DayLabel" x="center" y="145" justification="Gfx.TEXT_JUSTIFY_CENTER"/>      
+</layout>
